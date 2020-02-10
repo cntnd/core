@@ -1,7 +1,7 @@
 {
-  "name": "cntnd_booking",
+  "name": "cntnd_core",
   "version": "1.0.0",
-  "description": "Reservationssystem",
+  "description": "Core",
   "devDependencies": {
     "del": "^5.1.0",
     "gulp": "^4.0.2",
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cntnd/booking.git"
+    "url": "git+https://github.com/cntnd/core.git"
   },
   "author": "Thomas D Ascoli, thomas@dasco.li",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cntnd/booking/issues"
+    "url": "https://github.com/cntnd/core/issues"
   },
-  "homepage": "https://github.com/cntnd/booking#readme"
+  "homepage": "https://github.com/cntnd/core#readme"
 }
